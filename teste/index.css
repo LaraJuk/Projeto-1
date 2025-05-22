@@ -1,4 +1,26 @@
 .banner{
     width: 100%;
-    background: url();
+    height: 650px;
+    background: url(./img/download.jpeg);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.margin{
+    margin-bottom: 0;
+}
+.paddin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.praia1{
+ width: 60%;
+
+}
+
+.praia1 img{
+    width: 100%;
 }
